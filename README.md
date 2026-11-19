@@ -4,5 +4,5 @@ This repository is for free-to-use Crestron Home drivers. Crestron Configure Pro
 ## Mitsubishi Comfort Cloud
 This will connect a Comfort Cloud account to allow the control of a Mitsubishi HVAC system (mini-split etc.).
 
-## Weather Forecast
+## [Weather Forecast](https://github.com/Erik98146/Crestron/blob/main/Weather/README.md)
 This will use the free open meteo service to create a weather tile.  No API key required.
