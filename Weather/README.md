@@ -37,7 +37,7 @@ or Open-Meteo.
 - One **scene step**: Refresh Forecast.
 
 <img src="./images/weather01.png" width="100">   
-<img src="./images/weather02.png" width="200">
+<img src="./images/weather02.png" width="200">  <img src="./images/weather03.png" width="200">  <img src="./images/weather04.png" width="200">
 
 ## Install
 
