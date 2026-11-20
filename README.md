@@ -1,7 +1,7 @@
 # Crestron Drivers
 This repository is for free-to-use Crestron Home drivers. Crestron Configure Pro and Crestron Toolbox are required for setup.
 
-## Mitsubishi Comfort Cloud
+## [Mitsubishi Comfort Cloud](https://github.com/Erik98146/Crestron/tree/main/Mitsubishi)
 This will connect a Comfort Cloud account to allow the control of a Mitsubishi HVAC system (mini-split etc.).
 
 ## [Weather Forecast](https://github.com/Erik98146/Crestron/tree/main/Weather)
