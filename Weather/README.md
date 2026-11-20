@@ -36,9 +36,7 @@ or Open-Meteo.
 
 - One **scene step**: Refresh Forecast.
 
-The three alert switches gate their events as well as what is shown. Events come from a
-forecast model, not a sensor on the roof: use them for convenience scenes, and keep a
-local wind sensor as the trigger for anything that protects hardware.
+![](/images/weather01.png)
 
 ## Install
 
