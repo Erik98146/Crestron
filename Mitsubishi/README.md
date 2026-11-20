@@ -19,6 +19,9 @@ access from the processor; there is no local (LAN-only) control.
 Crestron Home has no native thermostat type for third-party drivers, so each unit is an
 "extension" device with its own tile rather than part of the built-in Climate page.
 
+<img src="./images/climate01.png" width="100">   
+<img src="./images/climate02.png" width="200">
+
 ## Install
 
 1. Copy `Platform_Mitsubishi_Comfort_IP.pkg` to the processor folder
