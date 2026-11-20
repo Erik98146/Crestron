@@ -36,7 +36,7 @@ or Open-Meteo.
 
 - One **scene step**: Refresh Forecast.
 
-![alt](/images/weather01.png)
+![](./images/weather01.png)
 
 ## Install
 
